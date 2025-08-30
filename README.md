@@ -1,0 +1,1 @@
+This HTML app is a “Device Oracle”: it collects and displays all possible information your browser and device can reveal—hardware, screen, sensors, battery, storage, permissions, geolocation, audio/video, and more—in a minimal black-and-white interactive interface with particle animations. It’s purely client-side and works on any phone or PC.
